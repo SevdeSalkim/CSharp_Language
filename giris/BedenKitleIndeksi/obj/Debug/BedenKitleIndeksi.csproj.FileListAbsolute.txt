@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\BedenKitleIndeksi\bin\Debug\BedenKitleIndeksi.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\BedenKitleIndeksi\bin\Debug\BedenKitleIndeksi.exe
+C:\Users\muham\Desktop\youtube c#\giris\BedenKitleIndeksi\bin\Debug\BedenKitleIndeksi.pdb
+C:\Users\muham\Desktop\youtube c#\giris\BedenKitleIndeksi\obj\Debug\BedenKitleIndeksi.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\BedenKitleIndeksi\obj\Debug\BedenKitleIndeksi.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\BedenKitleIndeksi\obj\Debug\BedenKitleIndeksi.exe
+C:\Users\muham\Desktop\youtube c#\giris\BedenKitleIndeksi\obj\Debug\BedenKitleIndeksi.pdb

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\muham\\Desktop\\youtube c#\\giris\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35F201E8-E300-4476-A6A9-432854D84BB6}|MiniATM\\MiniATM.csproj|c:\\users\\muham\\desktop\\youtube c#\\giris\\miniatm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35F201E8-E300-4476-A6A9-432854D84BB6}|MiniATM\\MiniATM.csproj|solutionrelative:miniatm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A93E8299-8089-43C2-84BA-EB6EF9F1ADAC}|BedenKitleIndeksi\\BedenKitleIndeksi.csproj|c:\\users\\muham\\desktop\\youtube c#\\giris\\bedenkitleindeksi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93E8299-8089-43C2-84BA-EB6EF9F1ADAC}|BedenKitleIndeksi\\BedenKitleIndeksi.csproj|solutionrelative:bedenkitleindeksi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\youtube c#\\giris\\MiniATM\\Program.cs",
-              "RelativeDocumentMoniker": "MiniATM\\Program.cs",
-              "ToolTip": "C:\\Users\\muham\\Desktop\\youtube c#\\giris\\MiniATM\\Program.cs",
-              "RelativeToolTip": "MiniATM\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAA5AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\youtube c#\\giris\\BedenKitleIndeksi\\Program.cs",
+              "RelativeDocumentMoniker": "BedenKitleIndeksi\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\youtube c#\\giris\\BedenKitleIndeksi\\Program.cs",
+              "RelativeToolTip": "BedenKitleIndeksi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T21:46:10.103Z",
+              "WhenOpened": "2024-09-19T22:42:44.259Z",
               "EditorCaption": ""
             }
           ]
