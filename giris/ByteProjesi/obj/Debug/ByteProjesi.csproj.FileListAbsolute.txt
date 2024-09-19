@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\ByteProjesi\bin\Debug\ByteProjesi.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\ByteProjesi\bin\Debug\ByteProjesi.exe
+C:\Users\muham\Desktop\youtube c#\giris\ByteProjesi\bin\Debug\ByteProjesi.pdb
+C:\Users\muham\Desktop\youtube c#\giris\ByteProjesi\obj\Debug\ByteProjesi.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\ByteProjesi\obj\Debug\ByteProjesi.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\ByteProjesi\obj\Debug\ByteProjesi.exe
+C:\Users\muham\Desktop\youtube c#\giris\ByteProjesi\obj\Debug\ByteProjesi.pdb

@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\TurDonusumleri\bin\Debug\TurDonusumleri.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\TurDonusumleri\bin\Debug\TurDonusumleri.exe
+C:\Users\muham\Desktop\youtube c#\giris\TurDonusumleri\bin\Debug\TurDonusumleri.pdb
+C:\Users\muham\Desktop\youtube c#\giris\TurDonusumleri\obj\Debug\TurDonusumleri.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\TurDonusumleri\obj\Debug\TurDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\TurDonusumleri\obj\Debug\TurDonusumleri.exe
+C:\Users\muham\Desktop\youtube c#\giris\TurDonusumleri\obj\Debug\TurDonusumleri.pdb

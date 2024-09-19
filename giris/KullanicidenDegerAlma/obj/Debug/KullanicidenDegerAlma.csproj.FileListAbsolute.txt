@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\KullanicidenDegerAlma\bin\Debug\KullanicidenDegerAlma.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\KullanicidenDegerAlma\bin\Debug\KullanicidenDegerAlma.exe
+C:\Users\muham\Desktop\youtube c#\giris\KullanicidenDegerAlma\bin\Debug\KullanicidenDegerAlma.pdb
+C:\Users\muham\Desktop\youtube c#\giris\KullanicidenDegerAlma\obj\Debug\KullanicidenDegerAlma.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\KullanicidenDegerAlma\obj\Debug\KullanicidenDegerAlma.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\KullanicidenDegerAlma\obj\Debug\KullanicidenDegerAlma.exe
+C:\Users\muham\Desktop\youtube c#\giris\KullanicidenDegerAlma\obj\Debug\KullanicidenDegerAlma.pdb

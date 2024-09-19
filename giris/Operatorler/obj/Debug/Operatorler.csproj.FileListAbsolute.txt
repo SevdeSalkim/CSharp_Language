@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\Operatorler\bin\Debug\Operatorler.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\Operatorler\bin\Debug\Operatorler.exe
+C:\Users\muham\Desktop\youtube c#\giris\Operatorler\bin\Debug\Operatorler.pdb
+C:\Users\muham\Desktop\youtube c#\giris\Operatorler\obj\Debug\Operatorler.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\Operatorler\obj\Debug\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\Operatorler\obj\Debug\Operatorler.exe
+C:\Users\muham\Desktop\youtube c#\giris\Operatorler\obj\Debug\Operatorler.pdb

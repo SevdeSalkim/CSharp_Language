@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\BreakpointveTooltipOnemi\bin\Debug\BreakpointveTooltipOnemi.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\BreakpointveTooltipOnemi\bin\Debug\BreakpointveTooltipOnemi.exe
+C:\Users\muham\Desktop\youtube c#\giris\BreakpointveTooltipOnemi\bin\Debug\BreakpointveTooltipOnemi.pdb
+C:\Users\muham\Desktop\youtube c#\giris\BreakpointveTooltipOnemi\obj\Debug\BreakpointveTooltipOnemi.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\BreakpointveTooltipOnemi\obj\Debug\BreakpointveTooltipOnemi.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\BreakpointveTooltipOnemi\obj\Debug\BreakpointveTooltipOnemi.exe
+C:\Users\muham\Desktop\youtube c#\giris\BreakpointveTooltipOnemi\obj\Debug\BreakpointveTooltipOnemi.pdb
