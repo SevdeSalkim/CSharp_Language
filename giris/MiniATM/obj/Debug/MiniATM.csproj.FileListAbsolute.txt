@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\MiniATM\bin\Debug\MiniATM.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\MiniATM\bin\Debug\MiniATM.exe
+C:\Users\muham\Desktop\youtube c#\giris\MiniATM\bin\Debug\MiniATM.pdb
+C:\Users\muham\Desktop\youtube c#\giris\MiniATM\obj\Debug\MiniATM.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\MiniATM\obj\Debug\MiniATM.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\MiniATM\obj\Debug\MiniATM.exe
+C:\Users\muham\Desktop\youtube c#\giris\MiniATM\obj\Debug\MiniATM.pdb
