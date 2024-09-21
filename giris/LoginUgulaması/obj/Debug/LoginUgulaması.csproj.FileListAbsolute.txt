@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\LoginUgulaması\obj\Debug\LoginUgulaması.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\LoginUgulaması\obj\Debug\LoginUgulaması.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\LoginUgulaması\bin\Debug\LoginUgulaması.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\LoginUgulaması\bin\Debug\LoginUgulaması.exe
+C:\Users\muham\Desktop\youtube c#\giris\LoginUgulaması\bin\Debug\LoginUgulaması.pdb
+C:\Users\muham\Desktop\youtube c#\giris\LoginUgulaması\obj\Debug\LoginUgulaması.exe
+C:\Users\muham\Desktop\youtube c#\giris\LoginUgulaması\obj\Debug\LoginUgulaması.pdb
