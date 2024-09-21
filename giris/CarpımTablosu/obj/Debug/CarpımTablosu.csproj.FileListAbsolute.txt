@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\CarpımTablosu\bin\Debug\CarpımTablosu.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\CarpımTablosu\bin\Debug\CarpımTablosu.exe
+C:\Users\muham\Desktop\youtube c#\giris\CarpımTablosu\bin\Debug\CarpımTablosu.pdb
+C:\Users\muham\Desktop\youtube c#\giris\CarpımTablosu\obj\Debug\CarpımTablosu.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\CarpımTablosu\obj\Debug\CarpımTablosu.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\CarpımTablosu\obj\Debug\CarpımTablosu.exe
+C:\Users\muham\Desktop\youtube c#\giris\CarpımTablosu\obj\Debug\CarpımTablosu.pdb
