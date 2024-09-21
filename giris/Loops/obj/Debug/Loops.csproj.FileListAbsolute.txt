@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\Loops\bin\Debug\Loops.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\Loops\bin\Debug\Loops.exe
+C:\Users\muham\Desktop\youtube c#\giris\Loops\bin\Debug\Loops.pdb
+C:\Users\muham\Desktop\youtube c#\giris\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\Loops\obj\Debug\Loops.exe
+C:\Users\muham\Desktop\youtube c#\giris\Loops\obj\Debug\Loops.pdb
