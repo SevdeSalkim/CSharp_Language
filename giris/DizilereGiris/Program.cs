@@ -58,6 +58,23 @@ namespace DizilereGiris
             Console.ReadLine();
 
             */
+            // DİZİNİN ELEMANLARINI KULLANICIADAN ALMA VE EKRANA YAZDIRMA 
+
+            int[] sayilar = new int[4];
+
+            for(int i = 0; i < sayilar.Length; i++)
+            {
+                Console.Write("sayılar dizisinin " + (i + 1) +  ". elemanını giriniz: " );
+
+                sayilar[i] = Convert.ToInt32(Console.ReadLine());
+            }
+            Console.WriteLine("************************");
+
+            for(int i = 0;i < sayilar.Length; i++)
+            {
+                Console.WriteLine(sayilar[i]);
+            }
+            Console.ReadLine();
         }
     }
 }
