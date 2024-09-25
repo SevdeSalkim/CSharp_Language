@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\GirisUygulaması\bin\Debug\GirisUygulaması.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\GirisUygulaması\bin\Debug\GirisUygulaması.exe
+C:\Users\muham\Desktop\youtube c#\giris\GirisUygulaması\bin\Debug\GirisUygulaması.pdb
+C:\Users\muham\Desktop\youtube c#\giris\GirisUygulaması\obj\Debug\ForDongusuOrnek.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\GirisUygulaması\obj\Debug\ForDongusuOrnek.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\GirisUygulaması\obj\Debug\GirisUygulaması.exe
+C:\Users\muham\Desktop\youtube c#\giris\GirisUygulaması\obj\Debug\GirisUygulaması.pdb
