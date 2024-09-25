@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\DizilereGiris\bin\Debug\DizilereGiris.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\DizilereGiris\bin\Debug\DizilereGiris.exe
+C:\Users\muham\Desktop\youtube c#\giris\DizilereGiris\bin\Debug\DizilereGiris.pdb
+C:\Users\muham\Desktop\youtube c#\giris\DizilereGiris\obj\Debug\DizilereGiris.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\DizilereGiris\obj\Debug\DizilereGiris.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\DizilereGiris\obj\Debug\DizilereGiris.exe
+C:\Users\muham\Desktop\youtube c#\giris\DizilereGiris\obj\Debug\DizilereGiris.pdb
