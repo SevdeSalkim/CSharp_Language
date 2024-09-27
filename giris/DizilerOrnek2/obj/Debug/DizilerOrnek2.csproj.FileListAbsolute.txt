@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\DizilerOrnek2\bin\Debug\DizilerOrnek2.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\DizilerOrnek2\bin\Debug\DizilerOrnek2.exe
+C:\Users\muham\Desktop\youtube c#\giris\DizilerOrnek2\bin\Debug\DizilerOrnek2.pdb
+C:\Users\muham\Desktop\youtube c#\giris\DizilerOrnek2\obj\Debug\DizilerOrnek2.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\DizilerOrnek2\obj\Debug\DizilerOrnek2.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\DizilerOrnek2\obj\Debug\DizilerOrnek2.exe
+C:\Users\muham\Desktop\youtube c#\giris\DizilerOrnek2\obj\Debug\DizilerOrnek2.pdb
