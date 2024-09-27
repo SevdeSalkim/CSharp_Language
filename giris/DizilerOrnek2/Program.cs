@@ -13,8 +13,6 @@ namespace DizilerOrnek2
             // Kullanıcıdan 10 tane int değer alan ve şunları yapan programı kodlayınız...
             // 1- Kaç adet tek, çift eleman olduğunu
             // 2- Cift değerlerin toplamını Tek değerlerin toplamını
-            // 3- Son olarak kontrol yapsın Cift değerlerin toplamı tek değerlerden büyükse Çift değerlerin toplamı büyüktür yazdırsın.
-            // eğer teklerin toplamı büyükse > tek değerlerin toplamı büyüktür yazdırsın ...
 
             int[] sayilar = new int[10];
 
