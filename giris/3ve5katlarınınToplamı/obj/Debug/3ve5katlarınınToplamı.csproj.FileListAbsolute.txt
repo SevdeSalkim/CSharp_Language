@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\3ve5katlarınınToplamı\bin\Debug\3ve5katlarınınToplamı.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\3ve5katlarınınToplamı\bin\Debug\3ve5katlarınınToplamı.exe
+C:\Users\muham\Desktop\youtube c#\giris\3ve5katlarınınToplamı\bin\Debug\3ve5katlarınınToplamı.pdb
+C:\Users\muham\Desktop\youtube c#\giris\3ve5katlarınınToplamı\obj\Debug\3ve5katlarınınToplamı.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\3ve5katlarınınToplamı\obj\Debug\3ve5katlarınınToplamı.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\3ve5katlarınınToplamı\obj\Debug\3ve5katlarınınToplamı.exe
+C:\Users\muham\Desktop\youtube c#\giris\3ve5katlarınınToplamı\obj\Debug\3ve5katlarınınToplamı.pdb
