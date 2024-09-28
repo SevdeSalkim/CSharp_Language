@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\RakkamlarınToplamı\bin\Debug\RakkamlarınToplamı.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\RakkamlarınToplamı\bin\Debug\RakkamlarınToplamı.exe
+C:\Users\muham\Desktop\youtube c#\giris\RakkamlarınToplamı\bin\Debug\RakkamlarınToplamı.pdb
+C:\Users\muham\Desktop\youtube c#\giris\RakkamlarınToplamı\obj\Debug\RakkamlarınToplamı.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\RakkamlarınToplamı\obj\Debug\RakkamlarınToplamı.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\RakkamlarınToplamı\obj\Debug\RakkamlarınToplamı.exe
+C:\Users\muham\Desktop\youtube c#\giris\RakkamlarınToplamı\obj\Debug\RakkamlarınToplamı.pdb
