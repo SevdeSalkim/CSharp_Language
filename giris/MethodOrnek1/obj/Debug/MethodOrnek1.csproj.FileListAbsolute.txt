@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\MethodOrnek1\bin\Debug\MethodOrnek1.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\MethodOrnek1\bin\Debug\MethodOrnek1.exe
+C:\Users\muham\Desktop\youtube c#\giris\MethodOrnek1\bin\Debug\MethodOrnek1.pdb
+C:\Users\muham\Desktop\youtube c#\giris\MethodOrnek1\obj\Debug\MethodOrnek1.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\MethodOrnek1\obj\Debug\MethodOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\MethodOrnek1\obj\Debug\MethodOrnek1.exe
+C:\Users\muham\Desktop\youtube c#\giris\MethodOrnek1\obj\Debug\MethodOrnek1.pdb
