@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\Methods\bin\Debug\Methods.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\Methods\bin\Debug\Methods.exe
+C:\Users\muham\Desktop\youtube c#\giris\Methods\bin\Debug\Methods.pdb
+C:\Users\muham\Desktop\youtube c#\giris\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\Methods\obj\Debug\Methods.exe
+C:\Users\muham\Desktop\youtube c#\giris\Methods\obj\Debug\Methods.pdb
