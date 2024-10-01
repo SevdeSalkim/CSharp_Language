@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\ClassKullanımı\bin\Debug\ClassKullanımı.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\ClassKullanımı\bin\Debug\ClassKullanımı.exe
+C:\Users\muham\Desktop\youtube c#\giris\ClassKullanımı\bin\Debug\ClassKullanımı.pdb
+C:\Users\muham\Desktop\youtube c#\giris\ClassKullanımı\obj\Debug\ClassKullanımı.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\ClassKullanımı\obj\Debug\ClassKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\ClassKullanımı\obj\Debug\ClassKullanımı.exe
+C:\Users\muham\Desktop\youtube c#\giris\ClassKullanımı\obj\Debug\ClassKullanımı.pdb
