@@ -14,6 +14,12 @@ namespace ClassKullanımı
         public string arabaRengi;
 
 
+        public Araba()
+        {
+            Console.WriteLine("Araba sınıfının yapıcı metodu çalıştı. ");
+        }
+
+
 
         public void motorCalistir()
         {
