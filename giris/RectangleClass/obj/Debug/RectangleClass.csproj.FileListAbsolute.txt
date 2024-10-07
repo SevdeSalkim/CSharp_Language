@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\RectangleClass\bin\Debug\RectangleClass.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\RectangleClass\bin\Debug\RectangleClass.exe
+C:\Users\muham\Desktop\youtube c#\giris\RectangleClass\bin\Debug\RectangleClass.pdb
+C:\Users\muham\Desktop\youtube c#\giris\RectangleClass\obj\Debug\RectangleClass.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\RectangleClass\obj\Debug\RectangleClass.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\RectangleClass\obj\Debug\RectangleClass.exe
+C:\Users\muham\Desktop\youtube c#\giris\RectangleClass\obj\Debug\RectangleClass.pdb
