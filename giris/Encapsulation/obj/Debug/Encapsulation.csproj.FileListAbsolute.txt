@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\muham\Desktop\youtube c#\giris\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\muham\Desktop\youtube c#\giris\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\muham\Desktop\youtube c#\giris\Encapsulation\obj\Debug\Encapsulation.pdb
