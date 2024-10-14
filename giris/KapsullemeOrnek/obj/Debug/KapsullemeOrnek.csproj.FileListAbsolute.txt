@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\KapsullemeOrnek\bin\Debug\KapsullemeOrnek.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\KapsullemeOrnek\bin\Debug\KapsullemeOrnek.exe
+C:\Users\muham\Desktop\youtube c#\giris\KapsullemeOrnek\bin\Debug\KapsullemeOrnek.pdb
+C:\Users\muham\Desktop\youtube c#\giris\KapsullemeOrnek\obj\Debug\KapsullemeOrnek.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\KapsullemeOrnek\obj\Debug\KapsullemeOrnek.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\KapsullemeOrnek\obj\Debug\KapsullemeOrnek.exe
+C:\Users\muham\Desktop\youtube c#\giris\KapsullemeOrnek\obj\Debug\KapsullemeOrnek.pdb
