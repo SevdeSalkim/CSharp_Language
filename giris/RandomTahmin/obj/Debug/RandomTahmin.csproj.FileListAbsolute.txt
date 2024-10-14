@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\RandomTahmin\bin\Debug\RandomTahmin.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\RandomTahmin\bin\Debug\RandomTahmin.exe
+C:\Users\muham\Desktop\youtube c#\giris\RandomTahmin\bin\Debug\RandomTahmin.pdb
+C:\Users\muham\Desktop\youtube c#\giris\RandomTahmin\obj\Debug\RandomTahmin.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\RandomTahmin\obj\Debug\RandomTahmin.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\RandomTahmin\obj\Debug\RandomTahmin.exe
+C:\Users\muham\Desktop\youtube c#\giris\RandomTahmin\obj\Debug\RandomTahmin.pdb
