@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\youtube c#\giris\StaticMethod\bin\Debug\StaticMethod.exe.config
+C:\Users\muham\Desktop\youtube c#\giris\StaticMethod\bin\Debug\StaticMethod.exe
+C:\Users\muham\Desktop\youtube c#\giris\StaticMethod\bin\Debug\StaticMethod.pdb
+C:\Users\muham\Desktop\youtube c#\giris\StaticMethod\obj\Debug\StaticMethod.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\youtube c#\giris\StaticMethod\obj\Debug\StaticMethod.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\youtube c#\giris\StaticMethod\obj\Debug\StaticMethod.exe
+C:\Users\muham\Desktop\youtube c#\giris\StaticMethod\obj\Debug\StaticMethod.pdb
