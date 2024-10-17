@@ -13,7 +13,7 @@ namespace KapsullemeOrnek
         public string TCKİMLİKNO {
             
             get {
-                return tcKimlikNo.Substring(0, 4);
+                return tcKimlikNo.Substring(0, 4) + "*******";
 
             } 
             
